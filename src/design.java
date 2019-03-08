@@ -1,6 +1,6 @@
 public class design {
-    final static int DIM1 = 10;
-    final static int DIM2 = 10;
+    final static int DIM1 = 80;
+    final static int DIM2 = 22;
 
     public static boolean[][] initWorld() {
         boolean[][] world = new boolean[DIM1][DIM2];
